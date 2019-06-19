@@ -10,6 +10,7 @@ MarkDown轻量级标记语言
 - [列表](#列表)
 - [引用](#引用)
 - [图片链接](#图片链接)
+- [脚注](#脚注)
 
 
 ## 斜体&粗体
@@ -229,3 +230,27 @@ Python
 ![清澈湖面][lake]
 
 [lake]:/pictures/2.jpg "清澈湖水"
+
+
+## 脚注
+
+**脚注语法**
+```
+MarkDown[^1]可以高效书写说明文档,然后转换为HTML[^2],有很多优秀的MarkDown编辑器如MarkDownPad2[^3]
+
+[^1]:MarkDown是纯文本标记语言
+
+[^2]:HyperText Markup Language 超文本标记语言
+
+[^3]:MarkDownPad2 一款优秀的MarkDown文本编辑器
+```
+
+**脚注预览**
+
+MarkDown[^1]可以高效书写说明文档,然后转换为HTML[^2],有很多优秀的MarkDown编辑器如MarkDownPad2[^3]
+
+[^1]:MarkDown是纯文本标记语言
+
+[^2]:HyperText Markup Language 超文本标记语言
+
+[^3]:MarkDownPad2 一款优秀的MarkDown文本编辑器
