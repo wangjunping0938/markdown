@@ -12,6 +12,8 @@ MarkDown轻量级标记语言
 - [图片链接](#图片链接)
 - [脚注](#脚注)
 - [表格](#表格)
+- [分割线](#分割线)
+- [代码块](#代码块)
 
 
 ## 斜体&粗体
@@ -285,3 +287,89 @@ Leanote 超级账号|120元/年
 |小明|男|75|
 |小红|女|79|
 |小陆|男|92|
+
+
+## 分割线
+
+**语法**
+```
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+```
+
+**预览**
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+
+## 代码块
+
+**语法(书写时候取掉双引号)**
+```
+双反引号
+"`class Name()`"
+
+三反引号
+"```
+class Employee:
+   empCount = 0
+ 
+   def __init__(self, name, salary):
+        self.name = name
+        self.salary = salary
+        Employee.empCount += 1
+```"
+
+代码高亮
+"```Python
+class Employee:
+   empCount = 0
+ 
+   def __init__(self, name, salary):
+        self.name = name
+        self.salary = salary
+        Employee.empCount += 1
+```"
+```
+
+**预览**
+
+双反引号
+`class Name()`
+
+三反引号
+```
+class Employee:
+   empCount = 0
+ 
+   def __init__(self, name, salary):
+        self.name = name
+        self.salary = salary
+        Employee.empCount += 1
+```
+
+代码高亮
+```Python
+class Employee:
+   empCount = 0
+ 
+   def __init__(self, name, salary):
+        self.name = name
+        self.salary = salary
+        Employee.empCount += 1
+```
