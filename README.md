@@ -240,9 +240,9 @@ MarkDown[^1]可以高效书写说明文档,然后转换为HTML[^2],有很多优�
 
 [^1]:MarkDown是纯文本标记语言
 
-[^2]:HyperText Markup Language 超文本标记语言
+[^2]:HyperTextMarkupLanguage超文本标记语言
 
-[^3]:MarkDownPad2 一款优秀的MarkDown文本编辑器
+[^3]:MarkDownPad2一款优秀的MarkDown文本编辑器
 ```
 
 **脚注预览**
@@ -251,6 +251,6 @@ MarkDown[^1]可以高效书写说明文档,然后转换为HTML[^2],有很多优�
 
 [^1]:MarkDown是纯文本标记语言
 
-[^2]:HyperText Markup Language 超文本标记语言
+[^2]:HyperTextMarkupLanguage超文本标记语言
 
-[^3]:MarkDownPad2 一款优秀的MarkDown文本编辑器
+[^3]:MarkDownPad2一款优秀的MarkDown文本编辑器
