@@ -120,18 +120,24 @@ https://www.python.org/>
 **自定义列表语法**
 ```
 Python
+
 :   python是一门编程语言
 
 示例代码
+
 :   简单一个python代码
+
         print('hello world')
 ```
 
 **自定义列表预览**
 
 Python
+
 :   python是一门编程语言
 
 示例代码
+
 :   简单一个python代码
+
         print('hello world')
